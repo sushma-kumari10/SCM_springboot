@@ -1,1 +1,1 @@
-# SCM_springboot
+# Smart-Contact-Manager
